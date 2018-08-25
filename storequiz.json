@@ -1,0 +1,162 @@
+[
+	{
+		"q":"Which MCU movie featured Spider-Man’s first appearance?",
+		"a":"spiderman homecoming",
+		"b":"iron man 3",
+		"c":"antman",
+		"d":"captain america: civil war",
+		"ca":"d"
+	},
+	{
+		"q":"What organization was secretly infiltrating S.H.I.E.L.D? ",
+		"a":"the avengers",
+		"b":"sea cucumber",
+		"c":"starfish",
+		"d":"hydra",
+		"ca":"d"
+	},
+	{
+		"q":"How many known ways are there to enter the Quantum Realm, and what are they? ",
+		"a":"3 ways: Decrease in subatomic size, Sling Ring, Magical Energy",
+		"b":"2 ways: Sling Ring, Decrease in subatomic size",
+		"c":"1 way: Magical Energy",
+		"d":"1 way: Decrease in subatomic size",
+		"ca":"a"
+	},
+	{
+		"q":"How was StormBreaker created? ",
+		"a":"An old hammer was merged with the Orb, Groot's Branches",
+		"b":"It was created from the Bifrost Bridge, Groot's Branches",
+		"c":"Odin created it with the power of the Tesseract, Groot's Branches",
+		"d":"From the Heart of a Dying Star and Groot's Branches",
+		"ca":"d"
+	},
+	{
+		"q":"What is the wifi password at Kamar Taj? ",
+		"a":"Chamballar",
+		"b":"Shambala",
+		"c":"Shamballar",
+		"d":"Shamballa",
+		"ca":"d"
+	},
+	{
+		"q":"How did Wanda and Pietro Maximoff obtain their powers? ",
+		"a":"From Hydra's experiments with the Mind Stone",
+		"b":"Ultron gave them powers",
+		"c":"From the Quantum Realm",
+		"d":"They are mutants",
+		"ca":"a"
+	},
+	{
+		"q":"Who played the Hulk before Mark Ruffalo?",
+		"a":"will smith",
+		"b":"liam norton",
+		"c":"gary oldman",
+		"d":"edward norton",
+		"ca":"d"
+	},
+	{
+		"q":"Which war did Captain America fight in?",
+		"a":"civil war",
+		"b":"world war 1",
+		"c":"iraq war",
+		"d":"world war 2",
+		"ca":"d"
+	},
+	{
+		"q":"Which movie takes place during Christmas time?",
+		"a":"ant man",
+		"b":"gaurdians of the galaxy",
+		"c":"thor: the dark world",
+		"d":"iron man 3",
+		"ca":"d"
+	},
+	{
+		"q":"The real name of Scarlet Witch, played by Elizabeth Olsen, is Wanda Maximoff. What is the real name of her twin brother, Quicksilver?",
+		"a":"peter maximoff",
+		"b":"peidro maximoff",
+		"c":"pedro maximoff",
+		"d":"pietro maximoff",
+		"ca":"d"
+	},
+	{
+		"q":"Which Avenger saves all of Manhattan from an active missile?",
+		"a":"iron man",
+		"b":"thor",
+		"c":"hulk",
+		"d":"captain america",
+		"ca":"a"
+	},
+	{
+		"q":"How many years was Steve Rogers (Captain America) frozen?",
+		"a":"60 years",
+		"b":"160 years",
+		"c":"70 years",
+		"d":"50 years",
+		"ca":"c"
+	},
+	{
+		"q":"What is Pepper Potts's first name?",
+		"a":"sarah",
+		"b":"virginia",
+		"c":"nancy",
+		"d":"alicia",
+		"ca":"b"
+	},
+	{
+		"q":"What is Ant Man's real name?",
+		"a":"scott lang",
+		"b":"scott pym",
+		"c":"darren cross",
+		"d":"darren pym",
+		"ca":"b"
+	},
+	{
+		"q":"How many Infinity Stones are said to exist in the Marvel Universe?",
+		"a":"5",
+		"b":"4",
+		"c":"6",
+		"d":"9",
+		"ca":"c"
+	},
+	{
+		"q":"What type of Giant appears in Thor?",
+		"a":"ice giants",
+		"b":"frost giants",
+		"c":"storm giants",
+		"d":"mountain giants",
+		"ca":"b"
+	},
+	{
+		"q":"Where does Steve Rogers realize he’s in the 21st century?",
+		"a":"times square",
+		"b":"empire state building",
+		"c":"wall street",
+		"d":"baxtor building",
+		"ca":"a"
+	},
+	{
+		"q":"By which of these other monikers is Odin known?",
+		"a":"the allfather",
+		"b":"the godfather",
+		"c":"odin king",
+		"d":"king odin",
+		"ca":"a"
+	},
+	{
+		"q":"Arrogance may not be a uniquely American trait, but I must say, you do it better than anyone.",
+		"a":"red skull",
+		"b":"black widow",
+		"c":"ivan vanko",
+		"d":"arnim zola",
+		"ca":"a"
+	},
+	{
+		"q":"I have lived most of my life surrounded by my enemies. I would be grateful to die surrounded by my friends.",
+		"a":"drax",
+		"b":"gamora",
+		"c":"black widow",
+		"d":"loki",
+		"ca":"b"
+	}
+]
